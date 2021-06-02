@@ -1,9 +1,7 @@
 # Hi there! 
 
 ### My name is **Kostadin Karaivanov**. I'm from Bulgarian and i'm from city Panagyurishte. My career in IT started in 2002, when I became acquainted with the programming language C. 
-### Currently working at <a href="http://asarel.com/"> Asarel Medet JSC </a>,  where I am upgrading my knowledge and skills, looking for improvement in the work process of some applications.. 
-
-</br>
+### For the last 22 years I have been working at <a href="http://asarel.com/"> Asarel Medet JSC </a>,  where I took care of network security and availability, the computer systems in the company, software applications as well as systems and applications in other personal companies of the company. Currently working as a specialist  and upgrading my knowledge and skills, looking for improvements in the workflow of some applications and systems. </br>
 
 ### 🧑‍💼 **&nbsp;Professional career**
 - _Computer systems technician in time 2006-2011_
@@ -30,9 +28,7 @@
 > |<a href="https://softuni.bg/trainings/3112/data-structures-fundamentals-with-csharp-september-2020"> 📌 Data Structures Fundamentals </a>| 📆 01.09.2020 - 11.10.2020 | |📜&nbsp;❌</a> |
 > |<a href="https://softuni.bg/trainings/3341/csharp-masterclass-march-2021"> 📌 C# Masterclass </a>| 📆 30.03.2021 - 30.05.2021 | | <a href="">📜&nbsp;💡</a> |
 
-</br>
-
-### 🛠️ &nbsp;Programing languages
+</br>### 🛠️ &nbsp;Programing languages
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)&nbsp;&nbsp;
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)&nbsp;&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-5C2D91?style=flat&logo=php&logoColor=white)&nbsp;&nbsp;
@@ -66,6 +62,7 @@
     </tr>
 </table>
 
+[![Github trophy](https://github-profile-trophy.vercel.app/?username=kkaraivanov&row=1)](https://github.com/kkaraivanov/github-profile-trophy)
 </br>
 
 ### ✍️ &nbsp;Contact with me
