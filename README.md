@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 :raised_hand_with_fingers_splayed:
 
 <!--
 **kkaraivanov/kkaraivanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
