@@ -6,9 +6,9 @@
 </br>
 
 ### 🧑‍💼 **&nbsp;Professional career**
-- _Computer systems technician_
-- _Computer specialist_
-- _System administrator_
+- _Computer systems technician in time 2006-2011_
+- _Computer specialist in time 2011-2017_
+- _System administrator in time 2017-2019_
 
 ### 👨‍🎓 **&nbsp;Currently i'm studying for Full Stack .NET Developer at <a href="https://softuni.bg/">SoftUni</a> - Software University in Sofia city.**
 
