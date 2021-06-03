@@ -26,7 +26,7 @@
 > |<a href="https://softuni.bg/trainings/2657/wordpress-for-developers-november-2019"> 📌 WordPress for Developers </a>| 📆 25.11.2019 - 24.11.2019 | | <a href="https://softuni.bg/Certificates/Details/75913/b896fe12">📜&nbsp;✔️</a> |
 > |<a href="https://softuni.bg/trainings/2547/qa-fundamentals-october-2019"> 📌 QA Fundamentals </a>| 📆 17.10.2019 - 01.10.2019 | |📜&nbsp;❌</a> |
 > |<a href="https://softuni.bg/trainings/3112/data-structures-fundamentals-with-csharp-september-2020"> 📌 Data Structures Fundamentals </a>| 📆 01.09.2020 - 11.10.2020 | |📜&nbsp;❌</a> |
-> |<a href="https://softuni.bg/trainings/3341/csharp-masterclass-march-2021"> 📌 C# Masterclass </a>| 📆 30.03.2021 - 30.05.2021 | | <a href="">📜&nbsp;💡</a> |
+> |<a href="https://softuni.bg/trainings/3341/csharp-masterclass-march-2021"> 📌 C# Masterclass </a>| 📆 30.03.2021 - 30.05.2021 | | <a href="https://softuni.bg/Certificates/Details/106989/6f9f9908">📜&nbsp;✔️</a> |
 
 </br>
 
