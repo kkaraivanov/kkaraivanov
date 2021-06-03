@@ -11,7 +11,7 @@
 ### 👨‍🎓 **&nbsp;Currently i'm studying for Full Stack .NET Developer at <a href="https://softuni.bg/">SoftUni</a> - Software University in Sofia city.**
 
 > ## 🎓 &nbsp;Passed courses and their Certificates
-> |**Courses**|**Month**||**Certificates**|
+> |**Courses**|**Date**||**Certificates**|
 > | :--- | :---: |-| :---: |
 > |<a href="https://softuni.bg/trainings/2428/programming-basics-with-csharp-september-2019"> 📌 Programming Basics with C# </a>| 📆 31.08.2019 - 04.11.2019 | | <a href="https://softuni.bg/Certificates/Details/71543/e814e87f">📜&nbsp;✔️</a> |
 > |<a href="https://softuni.bg/trainings/2606/csharp-oop-february-2020"> 📌 C# Fundamentals </a>| 📆 13.01.2020 - 05.04.2020 | |<a href="https://softuni.bg/Certificates/Details/79961/acf6c290">📜&nbsp;✔️</a> |
