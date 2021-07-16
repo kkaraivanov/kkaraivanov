@@ -19,7 +19,7 @@
 > |<a href="https://softuni.bg/trainings/2835/csharp-oop-june-2020"> 📌 C# OOP </a>| 📆 30.06.2020 - 18.08.2020 | |<a href="https://softuni.bg/Certificates/Details/86561/84342705">📜&nbsp;✔️</a> |
 > |<a href="https://softuni.bg/trainings/2988/databases-basics-ms-sql-server-may-2020"> 📌 MS SQL Server </a>| 📆 18.05.2020 - 12.08.2020 | |<a href="https://softuni.bg/Certificates/Details/82762/1b76dbb9">📜&nbsp;✔️</a> |
 > |<a href="https://softuni.bg/trainings/2843/entity-framework-core-june-2020"> 📌 Entity Framework Core </a>| 📆 22.06.2020 - 03.08.2020 | |<a href="https://softuni.bg/Certificates/Details/86535/525732fb">📜&nbsp;✔️</a> |
-> |<a href="https://softuni.bg/trainings/3353/csharp-web-basics-basics-may-2021"> 📍 C# Web Basics </a>| 📆 18.05.2021 - 25.08.2021 | |<a href="">📜&nbsp;💡</a> |
+> |<a href="https://softuni.bg/trainings/3353/csharp-web-basics-basics-may-2021"> 📍 C# Web Basics </a>| 📆 18.05.2021 - 25.08.2021 | |<a href="https://softuni.bg/certificates/details/109528/4af206db">📜&nbsp;✔️</a> |
 > |<a href="https://softuni.bg/trainings/3354/asp-dot-net-core-june-2021"> 📍 ASP.NET Core </a>| 📆  29.06.2021 - 28.08.2021 | |<a href="">📜&nbsp;💡</a> |
 > | **and more...** |  ||  |
 > |<a href="https://softuni.bg/trainings/2467/wordpress-essentials-august-2019" > 📌 WordPress Essentials </a>| 📆 13.08.2019 - 12.08.2019 ||<a href="https://softuni.bg/Certificates/Details/70803/a170661b">📜&nbsp;✔️</a> |
