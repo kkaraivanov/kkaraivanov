@@ -8,7 +8,7 @@
 </a>&nbsp;&nbsp;
 <a href="https://github.com/kkaraivanov" alt="karaivanov's github">
    <img src="https://img.shields.io/badge/-@kkaraivanov-%23181717?style=flat-square&logo=github" />
- </a>
+ </a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100000311415045">
 <img src="https://img.shields.io/badge/-Kostadin%20Karaivanov-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
 </a>
