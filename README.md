@@ -11,7 +11,9 @@
  </a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100000311415045">
 <img src="https://img.shields.io/badge/-Kostadin%20Karaivanov-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
-</a>
+</a>&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/kkaraivanov.svg?style=social&label=Follow&maxAge=2592000">
+</p></br>
 </div></br>
 
 >#### My name is **Kostadin Karaivanov**. I'm from Bulgarian and i'm from city Panagyurishte. My career in IT started in 2002, when I became acquainted with the programming language C. 
