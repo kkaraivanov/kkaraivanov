@@ -55,8 +55,8 @@ For the last 22 years I have been working at <a href="http://asarel.com/"> Asare
 
 #### ⚙️ &nbsp;Professional skills
 </div><br/>
-<div style="max-width:750px; margin:0 auto">
-<div align="center">
+<p style="max-width:750px; margin:0 auto">
+<p align="center">
   <a href="https://dotnet.microsoft.com/">
     <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" style="vertical-align:top; margin:4px 10px;">
   </a>
@@ -84,8 +84,8 @@ For the last 22 years I have been working at <a href="http://asarel.com/"> Asare
   <a href="https://www.git.com">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" style="vertical-align:top; margin:4px">
   </a>
-</div
-></div>
+</p>
+</p>
 <br/><br/>
 
 <div align="center">
