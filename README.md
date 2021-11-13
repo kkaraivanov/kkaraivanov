@@ -82,7 +82,7 @@ For the last 22 years I have been working at <a href="http://asarel.com/"> Asare
 <div align="center">
 <a href="#" alt="karaivanov's github stats">
 <img src="https://github-readme-stats.vercel.app/api?username=kkaraivanov&show_icons=true&theme=ayu-mirage&hide_border=true" style="margin:5px"/>
-</a>
+</a>&nbsp;
 <a href="#">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkaraivanov&theme=ayu-mirage&hide_border=true" style="margin:5px"/>
 </a>
