@@ -14,8 +14,8 @@
 </a>
 </div>
 
->My name is **Kostadin Karaivanov**. I'm from Bulgarian and i'm from city Panagyurishte. My career in IT started in 2002, when I became acquainted with the programming language C. 
-For the last 22 years I have been working at <a href="http://asarel.com/"> Asarel Medet JSC </a>, where I have responsibilities of network security and availability, the computer systems in the company, software applications as well as systems and applications in other Asarel’s daughter companies. Currently I’m working as a specialist and upgrading my knowledge and skills as looking for improvements of capabilities in some applications and systems. </br>
+>##### My name is **Kostadin Karaivanov**. I'm from Bulgarian and i'm from city Panagyurishte. My career in IT started in 2002, when I became acquainted with the programming language C. 
+>##### For the last 22 years I have been working at <a href="http://asarel.com/"> Asarel Medet JSC </a>, where I have responsibilities of network security and availability, the computer systems in the company, software applications as well as systems and applications in other Asarel’s daughter companies. Currently I’m working as a specialist and upgrading my knowledge and skills as looking for improvements of capabilities in some applications and systems. </br>
 
 #### 🧑‍💼 **&nbsp;Professional career**
 - _Computer systems technician in time 2006-2011_
