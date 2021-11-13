@@ -1,7 +1,4 @@
-<p align="center">
-   
-   # Hi there!
-</p>
+<h1 align="center">Hi there!</h1>
 <div align="center">
 <a href="mailto:kostadin.karaivanov@outlok.com">
 <img src="https://img.shields.io/badge/-@kkaraivanov-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
@@ -15,7 +12,7 @@
 <a href="https://www.facebook.com/profile.php?id=100000311415045">
 <img src="https://img.shields.io/badge/-Kostadin%20Karaivanov-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
 </a>
-</div></br></br>
+</div></br>
 
 >#### My name is **Kostadin Karaivanov**. I'm from Bulgarian and i'm from city Panagyurishte. My career in IT started in 2002, when I became acquainted with the programming language C. 
 >#### For the last 22 years I have been working at <a href="http://asarel.com/"> Asarel Medet JSC </a>, where I have responsibilities of network security and availability, the computer systems in the company, software applications as well as systems and applications in other Asarel’s daughter companies. Currently I’m working as a specialist and upgrading my knowledge and skills as looking for improvements of capabilities in some applications and systems. </br>
