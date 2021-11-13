@@ -35,17 +35,17 @@ For the last 22 years I have been working at <a href="http://asarel.com/"> Asare
 
 #### 🛠️ &nbsp;Programing languages
 <div>
-<a href="" style="margin:0 10px"><img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white"></a>
-<a href="" style="margin:0 10px"><img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"></a>
-<a href="" style="margin:0 10px"><img src="https://img.shields.io/badge/PHP-5C2D91?style=flat&logo=php&logoColor=white"></a>
-<a href="" style="margin:0 10px"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"></a>
-<a href="" style="margin:0 10px"><img src="https://img.shields.io/badge/CSS-1572B6?&style=flat&logo=css3&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white"></a>&nbsp;&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"></a>&nbsp;&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/PHP-5C2D91?style=flat&logo=php&logoColor=white"></a>&nbsp;&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"></a>&nbsp;&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?&style=flat&logo=css3&logoColor=white"></a>
 </div>
-
-<div style="display:flex; justify-content: center; margin:20px 0">
+<br/><br/>
+<div align="center">
 
 #### ⚙️ &nbsp;Professional skills
-</div>
+</div><br/>
 <div style="max-width:750px; margin:0 auto">
 <div align="center">
   <a href="https://dotnet.microsoft.com/">
@@ -77,9 +77,9 @@ For the last 22 years I have been working at <a href="http://asarel.com/"> Asare
   </a>
 </div
 ></div>
-<br/>
+<br/><br/>
 
-<div style="display:flex; justify-content: center; margin:40px auto;">
+<div align="center">
 <a href="#" alt="karaivanov's github stats">
 <img src="https://github-readme-stats.vercel.app/api?username=kkaraivanov&show_icons=true&theme=flag-india&hide_border=true" />
 </a>
@@ -87,7 +87,7 @@ For the last 22 years I have been working at <a href="http://asarel.com/"> Asare
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkaraivanov&theme=flag-india&hide_border=true" />
 </a>
 </div>
-
+<br/><br/>
 <div align="center">
 <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=kkaraivanov&row=1"></a>
 </div>
