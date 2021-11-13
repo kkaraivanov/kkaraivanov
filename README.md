@@ -1,7 +1,7 @@
 <h1 align="center">Hi there!</h1>
 <p align="center">
-<a href="mailto:kostadin.karaivanov@outlok.com"><img src="https://img.shields.io/badge/-kostadin.karaivanov@outlok.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/kostadin-karaivanov-8390061a5/"><img src="https://img.shields.io/badge/-Kostadin%20Karaivanov-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="mailto:kostadin.karaivanov@outlok.com"><img src="https://img.shields.io/badge/-kostadin.karaivanov@outlok.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kostadin-karaivanov-8390061a5/"><img src="https://img.shields.io/badge/-Kostadin%20Karaivanov-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100000311415045"><img src="https://img.shields.io/badge/-Kostadin%20Karaivanov-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
 </P>
 
