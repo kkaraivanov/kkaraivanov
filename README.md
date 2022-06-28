@@ -17,17 +17,18 @@
 </div></br>
 
 >#### My name is **Kostadin Karaivanov**. I'm from Bulgarian and i'm from city Panagyurishte. My career in IT started in 2002, when I became acquainted with the programming language C. 
->#### For the last 22 years I have been working at <a href="http://asarel.com/"> Asarel Medet JSC </a>, where I have responsibilities of network security and availability, the computer systems in the company, software applications as well as systems and applications in other Asarel’s daughter companies. Currently I’m working as a specialist and upgrading my knowledge and skills as looking for improvements of capabilities in some applications and systems. </br>
+>#### For the last 22 years I have worked with responsibilities of network security and availability for the computer systems in the one company as well as systems and applications in other daughter companies of the this company. </br>
 
 #### 🧑‍💼 **&nbsp;Professional career**
 - _Computer systems technician in time 2006-2011_
 - _Computer specialist in time 2011-2017_
-- _System administrator in time 2017-2019_
+- _System administrator in time 2017-2019_- 
+- _Specialist in time 2019-2022_
 
 #### 👨‍🎓 **&nbsp;Currently i'm studying for Full Stack .NET Developer at <a href="https://softuni.bg/">SoftUni</a> - Software University in Sofia city.**
 
-> ##### 🎓 &nbsp;Passed courses and their Certificates
-> |**Courses**|**Date**||**Certificates**|
+> ##### 🎓 &nbsp;Passed software engineer module courses
+> |**Name of course**|**Date**||**Certificates**|
 > | :--- | :---: |-| :---: |
 > |<a href="https://softuni.bg/trainings/2428/programming-basics-with-csharp-september-2019"> 📌 Programming Basics with C# </a>| 📆 31.08.2019 - 04.11.2019 | | <a href="https://softuni.bg/Certificates/Details/71543/e814e87f">📜&nbsp;✔️</a> |
 > |<a href="https://softuni.bg/trainings/2606/csharp-oop-february-2020"> 📌 C# Fundamentals </a>| 📆 13.01.2020 - 05.04.2020 | |<a href="https://softuni.bg/Certificates/Details/79961/acf6c290">📜&nbsp;✔️</a> |
@@ -37,6 +38,7 @@
 > |<a href="https://softuni.bg/trainings/2843/entity-framework-core-june-2020"> 📌 Entity Framework Core </a>| 📆 22.06.2020 - 03.08.2020 | |<a href="https://softuni.bg/Certificates/Details/86535/525732fb">📜&nbsp;✔️</a> |
 > |<a href="https://softuni.bg/trainings/3353/csharp-web-basics-basics-may-2021"> 📌 C# Web Basics </a>| 📆 18.05.2021 - 25.08.2021 | |<a href="https://softuni.bg/certificates/details/109528/4af206db">📜&nbsp;✔️</a> |
 > |<a href="https://softuni.bg/trainings/3354/asp-dot-net-core-june-2021"> 📌 ASP.NET Core </a>| 📆  29.06.2021 - 28.08.2021 | |<a href="https://softuni.bg/certificates/details/113497/180a189f">📜&nbsp;✔️</a> |
+> |<a href="https://softuni.bg/trainings/3707/js-advanced-may-2022"> 📌 JS Advanced </a>| 📆  17.05.2022 - 25.06.2022 | |<a href="https://softuni.bg/certificates/details/136777/5bb04890">📜&nbsp;✔️</a> |
 > | **and more...** |  ||  |
 > |<a href="https://softuni.bg/trainings/2467/wordpress-essentials-august-2019" > 📌 WordPress Essentials </a>| 📆 13.08.2019 - 12.08.2019 ||<a href="https://softuni.bg/Certificates/Details/70803/a170661b">📜&nbsp;✔️</a> |
 > |<a href="https://softuni.bg/trainings/2657/wordpress-for-developers-november-2019"> 📌 WordPress for Developers </a>| 📆 25.11.2019 - 24.11.2019 | | <a href="https://softuni.bg/Certificates/Details/75913/b896fe12">📜&nbsp;✔️</a> |
@@ -47,6 +49,7 @@
 #### 🛠️ &nbsp;Programing languages
 <div>
 <a href="#"><img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white"></a>&nbsp;&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"></a>&nbsp;&nbsp;
 <a href="#"><img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"></a>&nbsp;&nbsp;
 <a href="#"><img src="https://img.shields.io/badge/PHP-5C2D91?style=flat&logo=php&logoColor=white"></a>&nbsp;&nbsp;
 <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"></a>&nbsp;&nbsp;
