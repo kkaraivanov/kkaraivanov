@@ -17,11 +17,11 @@
 </div></br>
 
 <div align="center">
-    <div style="width: 60px">
-        <img src="https://kkaraivanov.github.io/favicon.ico">
+    <div>
+        <img src="https://kkaraivanov.github.io/favicon.ico" width="60px" />
     </div>
 
-###### https://kkaraivanov.github.io
+##### https://kkaraivanov.github.io
 
 </div></br></br>
 
