@@ -21,7 +21,7 @@
         <img src="https://kkaraivanov.github.io/favicon.ico" width="60px" />
     </div>
 
-##### https://kkaraivanov.github.io
+##### kkaraivanov.github.io
 
 </div></br></br>
 
