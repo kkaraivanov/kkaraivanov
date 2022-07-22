@@ -16,35 +16,25 @@
 </p></br>
 </div></br>
 
+<div align="center">
+    <div style="width: 60px">
+        <img src="https://kkaraivanov.github.io/favicon.ico">
+    </div>
+
+###### https://kkaraivanov.github.io
+
+</div></br></br>
+
 >#### My name is **Kostadin Karaivanov**. I'm from Bulgarian and i'm from city Panagyurishte. My career in IT started in 2002, when I became acquainted with the programming language C. 
 >#### For the last 22 years I have worked with responsibilities of network security and availability for the computer systems in the one company as well as systems and applications in other daughter companies of the this company. </br>
 
 #### 🧑‍💼 **&nbsp;Professional career**
 - _Computer systems technician in time 2006-2011_
 - _Computer specialist in time 2011-2017_
-- _System administrator in time 2017-2019_- 
+- _System administrator in time 2017-2019_ 
 - _Specialist in time 2019-2022_
 
 #### 👨‍🎓 **&nbsp;Currently i'm studying for Full Stack .NET Developer at <a href="https://softuni.bg/">SoftUni</a> - Software University in Sofia city.**
-
-> ##### 🎓 &nbsp;Passed software engineer module courses
-> |**Name of course**|**Date**||**Certificates**|
-> | :--- | :---: |-| :---: |
-> |<a href="https://softuni.bg/trainings/2428/programming-basics-with-csharp-september-2019"> 📌 Programming Basics with C# </a>| 📆 31.08.2019 - 04.11.2019 | | <a href="https://softuni.bg/Certificates/Details/71543/e814e87f">📜&nbsp;✔️</a> |
-> |<a href="https://softuni.bg/trainings/2606/csharp-oop-february-2020"> 📌 C# Fundamentals </a>| 📆 13.01.2020 - 05.04.2020 | |<a href="https://softuni.bg/Certificates/Details/79961/acf6c290">📜&nbsp;✔️</a> |
-> |<a href="https://softuni.bg/trainings/2834/csharp-advanced-may-2020"> 📌 C# Advanced </a>| 📆 19.05.2020 - 30.06.2020 | |<a href="https://softuni.bg/Certificates/Details/83257/59ad335f">📜&nbsp;✔️</a> |
-> |<a href="https://softuni.bg/trainings/2835/csharp-oop-june-2020"> 📌 C# OOP </a>| 📆 30.06.2020 - 18.08.2020 | |<a href="https://softuni.bg/Certificates/Details/86561/84342705">📜&nbsp;✔️</a> |
-> |<a href="https://softuni.bg/trainings/2988/databases-basics-ms-sql-server-may-2020"> 📌 MS SQL Server </a>| 📆 18.05.2020 - 12.08.2020 | |<a href="https://softuni.bg/Certificates/Details/82762/1b76dbb9">📜&nbsp;✔️</a> |
-> |<a href="https://softuni.bg/trainings/2843/entity-framework-core-june-2020"> 📌 Entity Framework Core </a>| 📆 22.06.2020 - 03.08.2020 | |<a href="https://softuni.bg/Certificates/Details/86535/525732fb">📜&nbsp;✔️</a> |
-> |<a href="https://softuni.bg/trainings/3353/csharp-web-basics-basics-may-2021"> 📌 C# Web Basics </a>| 📆 18.05.2021 - 25.08.2021 | |<a href="https://softuni.bg/certificates/details/109528/4af206db">📜&nbsp;✔️</a> |
-> |<a href="https://softuni.bg/trainings/3354/asp-dot-net-core-june-2021"> 📌 ASP.NET Core </a>| 📆  29.06.2021 - 28.08.2021 | |<a href="https://softuni.bg/certificates/details/113497/180a189f">📜&nbsp;✔️</a> |
-> |<a href="https://softuni.bg/trainings/3707/js-advanced-may-2022"> 📌 JS Advanced </a>| 📆  17.05.2022 - 25.06.2022 | |<a href="https://softuni.bg/certificates/details/136777/5bb04890">📜&nbsp;✔️</a> |
-> | **and more...** |  ||  |
-> |<a href="https://softuni.bg/trainings/2467/wordpress-essentials-august-2019" > 📌 WordPress Essentials </a>| 📆 13.08.2019 - 12.08.2019 ||<a href="https://softuni.bg/Certificates/Details/70803/a170661b">📜&nbsp;✔️</a> |
-> |<a href="https://softuni.bg/trainings/2657/wordpress-for-developers-november-2019"> 📌 WordPress for Developers </a>| 📆 25.11.2019 - 24.11.2019 | | <a href="https://softuni.bg/Certificates/Details/75913/b896fe12">📜&nbsp;✔️</a> |
-> |<a href="https://softuni.bg/trainings/2547/qa-fundamentals-october-2019"> 📌 QA Fundamentals </a>| 📆 17.10.2019 - 01.10.2019 | |📜&nbsp;❌</a> |
-> |<a href="https://softuni.bg/trainings/3112/data-structures-fundamentals-with-csharp-september-2020"> 📌 Data Structures Fundamentals </a>| 📆 01.09.2020 - 11.10.2020 | |📜&nbsp;❌</a> |
-> |<a href="https://softuni.bg/trainings/3341/csharp-masterclass-march-2021"> 📌 C# Masterclass </a>| 📆 30.03.2021 - 30.05.2021 | | <a href="https://softuni.bg/Certificates/Details/106989/6f9f9908">📜&nbsp;✔️</a> |
 
 #### 🛠️ &nbsp;Programing languages
 <div>
@@ -71,8 +61,8 @@
   <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="Blazor" height="60px" style="vertical-align:top; margin:4px 10px">
   </a>
-   <a href="https://wordpress.com">
-    <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="wordpress" style="vertical-align:top; margin:4px 10px">
+   <a href="https://reactjs.org/">
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="wordpress" style="vertical-align:top; margin:4px 10px">
   </a>
   <a href="https://hub.docker.com/">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" style="vertical-align:top; margin:4px 10px">
