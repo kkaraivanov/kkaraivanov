@@ -34,7 +34,7 @@
 - _System administrator in time 2017-2019_ 
 - _Specialist in time 2019-2022_
 
-#### 👨‍🎓 **&nbsp;Currently i'm studying for Full Stack .NET Developer at <a href="https://softuni.bg/">SoftUni</a> - Software University in Sofia city.**
+#### 👨‍🎓 **&nbsp;Education <a href="https://softuni.bg/Certificates/Details/142252/f8c31a26">C# Software Developer&nbsp;✔️</a> - <a href="https://softuni.bg/">SoftUni</a> (2019 - 2022)**
 
 #### 🛠️ &nbsp;Programing languages
 <div>
