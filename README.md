@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">
+<h1 align="center">
     Hi there
     <i style="margin: 0 10px;">
         <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"/>
