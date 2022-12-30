@@ -1,39 +1,11 @@
-<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; height: 100%;">
-            <style>
-    h1,
-    .content{
-        text-align: center;
-    }
-    .content{
-        margin: 0;
-    }
-    .greet-hand{
-        margin: 0 10px;
-    }
-    i:not(.greet-hand){
-        margin: 0 15px 0 0;
-    }
-    @media only screen and (min-width: 1024px){
-        .bar{
-            max-width: 420px;
-        }
-
-        .section-bages {
-            text-align: center;
-        }
-    }
-</style>
-
-<h1>
+<h1 style="text-align: center;">
     Hi there
-    <i class="greet-hand">
+    <i style="margin: 0 10px;">
         <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"/>
     </i>
     I'm Kostadin
 </h1>
-<div class="content">
+<div style="text-align: center; margin: 0;">
     <h4>I am a Software Developer.</h4>
     <h4>I like coding and developing websites and learning new Skills and technologies gaining knowledge about different tech stacks.</h4>
     <h4>I love to build beautiful user friendly products.</h4>
@@ -55,7 +27,7 @@ class Profile extends SoftwareDeveloper {
 ```
 <br/>
 
-<h3><i>⚙️</i>Tech Stack</h3>
+<h3><i style="margin: 0 15px 0 0;">⚙️</i>Tech Stack</h3>
 <p align="left">
     <img src="https://img.shields.io/badge/.Net-%231999B6.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="NET"/>
     <img src="https://img.shields.io/badge/blazor-%23593d88.svg?style=for-the-badge&logo=blazor&logoColor=white" alt="blazor"/>
@@ -72,7 +44,7 @@ class Profile extends SoftwareDeveloper {
   <img src="https://img.shields.io/badge/styled--components-FF6C37?style=for-the-badge&logo=styled-components&logoColor=white" alt="styles-components" /> 
 </p>
 
-<h3><i>🛠️</i>Tools</h3>
+<h3><i style="margin: 0 15px 0 0;">🛠️</i>Tools</h3>
 <p align="left">
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />
     <img src="https://img.shields.io/badge/Visual Studio-%23593D69?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="vs" />
@@ -93,15 +65,12 @@ class Profile extends SoftwareDeveloper {
     <a href="https://kkaraivanov.github.io" target="_blank"><img align="center" src="https://img.shields.io/badge/portfolio-F25252?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
 </p>
 <br />
-<div class="section-bages">
+<div style="@media only screen and (min-width: 1024px){text-align: center;}">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kkaraivanov&show_icons=true&locale=en&layout=compact" alt="kkaraivanov" />
-    &nbsp;<img class="bar" src="https://github-readme-stats.vercel.app/api?username=kkaraivanov&show_icons=true&locale=en" alt="kkaraivanov" />
+    &nbsp;<img style="@media only screen and (min-width: 1024px){max-width: 420px;}" src="https://github-readme-stats.vercel.app/api?username=kkaraivanov&show_icons=true&locale=en" alt="kkaraivanov" />
 
 </div>
 <br />
-<div class="section-bages">
+<div style="@media only screen and (min-width: 1024px){text-align: center;}">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkaraivanov&" alt="kkaraivanov" />
 </div>
-        </div>
-    </foreignObject>
-</svg>
