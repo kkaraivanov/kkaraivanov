@@ -1,97 +1,101 @@
-<h1 align="center">Hi there!</h1>
-<div align="center">
-<a href="mailto:kostadin.karaivanov@outlok.com">
-<img src="https://img.shields.io/badge/-@kkaraivanov-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/kostadin-karaivanov-8390061a5/">
-<img src="https://img.shields.io/badge/-Kostadin%20Karaivanov-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>&nbsp;&nbsp;
-<a href="https://github.com/kkaraivanov" alt="karaivanov's github">
-   <img src="https://img.shields.io/badge/-@kkaraivanov-%23181717?style=flat-square&logo=github" />
- </a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100000311415045">
-<img src="https://img.shields.io/badge/-Kostadin%20Karaivanov-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
-</a>&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/kkaraivanov.svg?style=social&label=Follow&maxAge=2592000">
-</p></br>
-</div></br>
+<style>
+    h1,
+    .content{
+        text-align: center;
+    }
+    .content{
+        margin: 0;
+    }
+    .greet-hand{
+        margin: 0 10px;
+    }
+    i:not(.greet-hand){
+        margin: 0 15px 0 0;
+    }
+    @media only screen and (min-width: 1024px){
+        .bar{
+            max-width: 420px;
+        }
 
-<div align="center">
-    <div>
-        <img src="https://kkaraivanov.github.io/favicon.ico" width="60px" />
-    </div>
+        .section-bages {
+            text-align: center;
+        }
+    }
+</style>
 
-##### <a href="https://kkaraivanov.github.io">kkaraivanov.github.io</a>
-
-</div></br></br>
-
->#### My name is **Kostadin Karaivanov**. I'm from Bulgarian and i'm from city Panagyurishte. My career in IT started in 2002, when I became acquainted with the programming language C. 
->#### For the last 22 years I have worked with responsibilities of network security and availability for the computer systems in the one company as well as systems and applications in other daughter companies of the this company. </br>
-
-#### 🧑‍💼 **&nbsp;Professional career**
-- _Computer systems technician in time 2006-2011_
-- _Computer specialist in time 2011-2017_
-- _System administrator in time 2017-2019_ 
-- _Specialist in time 2019-2022_
-
-#### 👨‍🎓 **&nbsp;Education <a href="https://softuni.bg/Certificates/Details/142252/f8c31a26">C# Software Developer&nbsp;✔️</a> - <a href="https://softuni.bg/">SoftUni</a> (2019 - 2022)**
-
-#### 🛠️ &nbsp;Programing languages
-<div>
-<a href="#"><img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white"></a>&nbsp;&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"></a>&nbsp;&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"></a>&nbsp;&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/PHP-5C2D91?style=flat&logo=php&logoColor=white"></a>&nbsp;&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"></a>&nbsp;&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?&style=flat&logo=css3&logoColor=white"></a>
+<h1>
+    Hi there
+    <i class="greet-hand">
+        <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"/>
+    </i>
+    I'm Kostadin
+</h1>
+<div class="content">
+    <h4>I am a Software Developer.</h4>
+    <h4>I like coding and developing websites and learning new Skills and technologies gaining knowledge about different tech stacks.</h4>
+    <h4>I love to build beautiful user friendly products.</h4>
 </div>
-<br/><br/>
-<div align="center">
 
-#### ⚙️ &nbsp;Professional skills
-</div><br/>
-<p style="max-width:750px; margin:0 auto">
-<p align="center">
-  <a href="https://dotnet.microsoft.com/">
-    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" style="vertical-align:top; margin:4px 10px;">
-  </a>
-  <a href="https://dotnet.microsoft.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="60px" alt="dotnet" style="vertical-align:top; margin:4px 10px;">
-  </a>
-  <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="Blazor" height="60px" style="vertical-align:top; margin:4px 10px">
-  </a>
-   <a href="https://reactjs.org/">
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="wordpress" style="vertical-align:top; margin:4px 10px">
-  </a>
-  <a href="https://hub.docker.com/">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" style="vertical-align:top; margin:4px 10px">
-  </a> 
-  <a href="https://code.visualstudio.com">
-    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vs-code" style="vertical-align:top; margin:4px 10px">
-  </a>
-  <a href="https://www.postman.com">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="postman" style="vertical-align:top; margin:4px 10px">
-  </a>
-  <a href="https://www.github.com">
-    <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://www.git.com">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" style="vertical-align:top; margin:4px">
-  </a>
-</p>
-</p>
-<br/><br/>
+```js
+import SoftwareDeveloper from 'Panagyurishte.bg';
 
-<div align="center">
-<a href="#" alt="karaivanov's github stats">
-<img src="https://github-readme-stats.vercel.app/api?username=kkaraivanov&show_icons=true&theme=ayu-mirage&hide_border=true" style="margin:5px"/>
-</a>&nbsp;
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkaraivanov&theme=ayu-mirage&hide_border=true" style="margin:5px"/>
-</a>
+class Profile extends SoftwareDeveloper {
+  name = 'Kostadin Karaivanov';
+  title = 'Software Engineer' || 'Full Stack Web Developer';
+  location = 'Banya, Panagyurishte, Bulgaria';
+  training = 'Software university SoftUni';
+  skils = {
+    languages: ['C#', 'JavaScript', 'PHP', 'HTML', 'CSS', 'SCSS'],
+    tech: ['.Net Core', 'EF Core', 'React', 'Redux', 'NodeJs', 'ExpressJs']
+  };
+};
+```
+<br/>
+
+<h3><i>⚙️</i>Tech Stack</h3>
+<p align="left">
+    <img src="https://img.shields.io/badge/.Net-%231999B6.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="NET"/>
+    <img src="https://img.shields.io/badge/blazor-%23593d88.svg?style=for-the-badge&logo=blazor&logoColor=white" alt="blazor"/>
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
+    <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
+    <img src="https://img.shields.io/badge/scss-%2315726B.svg?style=for-the-badge&logo=sass&logoColor=white" alt="scss"/>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/>
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/>
+     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="expressjs" />
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+  <img src="https://img.shields.io/badge/styled--components-FF6C37?style=for-the-badge&logo=styled-components&logoColor=white" alt="styles-components" /> 
+</p>
+
+<h3><i>🛠️</i>Tools</h3>
+<p align="left">
+    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />
+    <img src="https://img.shields.io/badge/Visual Studio-%23593D69?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="vs" />
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" />
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />
+    <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
+    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+</p>
+
+<h3>Connect to me !!!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></h3>
+<p align="left">
+    <a href="https://www.linkedin.com/in/kostadin-karaivanov-8390061a5" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+    <a href="https://www.facebook.com/profile.php?id=100000311415045" target="blank"><img align="center" src="https://img.shields.io/badge/facebook-1879A2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a>
+    <a href="https://t.me/kkaraivanov" target="blank"><img align="center" src="https://img.shields.io/badge/telegram-1877F2?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
+    <a title="kostadin.karaivanov@outlook.com" href="mailto:kostadin.karaivanov@outlook.com" target="blank"><img align="center" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
+    <a href="https://kkaraivanov.github.io" target="_blank"><img align="center" src="https://img.shields.io/badge/portfolio-F25252?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
+</p>
+<br />
+<div class="section-bages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kkaraivanov&show_icons=true&locale=en&layout=compact" alt="kkaraivanov" />
+    &nbsp;<img class="bar" src="https://github-readme-stats.vercel.app/api?username=kkaraivanov&show_icons=true&locale=en" alt="kkaraivanov" />
+
 </div>
-<br/><br/>
-<div align="center">
-<a href="#"><img src="https://github-profile-trophy.vercel.app/?username=kkaraivanov&row=1"></a>
+<br />
+<div class="section-bages">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkaraivanov&" alt="kkaraivanov" />
 </div>
