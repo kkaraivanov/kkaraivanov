@@ -5,10 +5,10 @@
     </i>
     I'm Kostadin
 </h1>
-<div style="text-align: center; margin: 0;">
-    <h4>I am a Software Developer.</h4>
-    <h4>I like coding and developing websites and learning new Skills and technologies gaining knowledge about different tech stacks.</h4>
-    <h4>I love to build beautiful user friendly products.</h4>
+<div>
+    <h4 align="center">I am a Software Developer.</h4>
+    <h4 align="center">I like coding and developing websites and learning new Skills and technologies gaining knowledge about different tech stacks.</h4>
+    <h4 align="center">I love to build beautiful user friendly products.</h4>
 </div>
 
 ```js
