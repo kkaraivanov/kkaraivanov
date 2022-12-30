@@ -25,7 +25,7 @@ class Profile extends SoftwareDeveloper {
   };
 };
 ```
-<hr/>
+<br/>
 
 <h3><i style="margin: 0 15px 0 0;">⚙️</i>Tech Stack</h3>
 <p align="left">
