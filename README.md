@@ -1,3 +1,4 @@
+<div width="100%" height="100%">
 <style>
     h1,
     .content{
@@ -98,4 +99,5 @@ class Profile extends SoftwareDeveloper {
 <br />
 <div class="section-bages">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkaraivanov&" alt="kkaraivanov" />
+</div>
 </div>
