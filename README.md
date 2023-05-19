@@ -16,7 +16,7 @@ import SoftwareDeveloper from 'Panagyurishte.bg';
 
 class Profile extends SoftwareDeveloper {
   name = 'Kostadin Karaivanov';
-  title = 'Software Engineer' || 'Full Stack Web Developer';
+  title = 'Software Engineer' && 'Full Stack Web Developer';
   location = 'Banya, Panagyurishte, Bulgaria';
   training = 'Software university SoftUni';
   skils = {
